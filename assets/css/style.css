@@ -1,0 +1,67 @@
+body {
+	background-image: url(../images/bg.jpg);
+	background-position: center center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size:	cover;
+	background-repeat: no-repeat;
+	color: #f2f2f2; /*off white*/
+	height: 120vh;
+	
+
+}
+	
+h1{
+	font-size: 50px;
+	/*background-color: #333; off black*/
+	background-color: rgba(51,51,51,0.8);
+	text-transform: uppercase;
+	margin-bottom: 0;
+	letter-spacing: 3px;
+	font-family: 'Roboto', sans-serif;
+	border-radius: 20%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: purple;
+}
+
+h2{
+text-transform: uppercase;
+letter-spacing: 5px;
+font-size: 28px;
+color: purple;
+
+}
+
+#me {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: purple;
+	margin-top: 50px;
+}
+
+.bio {
+	width: 100%;
+	font-size: 20px;
+	color: black;
+	line-height: 2.0;
+	background-color: rgba(51,51,51,0.5);
+	/*background-color: #333;
+	opacity: 0.5;*/
+	font-family: 'Courgette', cursive;
+	border-radius: 10%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: purple;
+
+}
+
+.container{
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
