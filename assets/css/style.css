@@ -37,7 +37,7 @@ h2{
 #me {
 	height: 200px;
 	width: 200px;
-	border-radius: 50%;
+	border-radius: 70%;
 	border-width: 5px;
 	border-style: solid;
 	border-color: purple;
@@ -78,7 +78,7 @@ h2{
 	margin: 0 auto;
 	text-align: center;
 }
-.cont{
+.container2{
 	width: 500px;
 	margin: 0 auto;
 	text-align: center;
