@@ -60,14 +60,12 @@ h2{
 
 }
 
-.bio2 {
-		width: 100%;
+.cont {
+	width: 100%;
 	font-size: 20px;
 	color: black;
 	line-height: 2.0;
 	background-color: rgba(51,51,51,0.5);
-	/*background-color: #333;
-	opacity: 0.5;*/
 	font-family: 'Courgette', cursive;
 	border-radius: 10%;
 	border-width: 5px;
