@@ -27,10 +27,10 @@ h1{
 }
 
 h2{
-text-transform: uppercase;
-letter-spacing: 5px;
-font-size: 28px;
-color: purple;
+	/*text-transform: capitalize;*/
+	letter-spacing: 5px;
+	font-size: 28px;
+	color: purple;
 
 }
 
